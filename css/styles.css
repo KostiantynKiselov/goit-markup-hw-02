@@ -52,6 +52,10 @@ top: 280px;
     font-weight: 500;
 }
 
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .mail:hover {
    text-decoration: underline; 
 }
@@ -217,7 +221,7 @@ color: #212121;
 background: #F5F4FA;
 border-radius: 4px;
 border: none;
-cursor: pointer;    
+cursor: pointer; 
 }
 
 .portfolio:hover {
@@ -227,5 +231,9 @@ color: #fff;
 
  .body {
      font-family: Roboto, sans-serif;
-     color: #212121; 
+     color: #212121;
+ }
+
+ li {
+     list-style-type: none;
  }
