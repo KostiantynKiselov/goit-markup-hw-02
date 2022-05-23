@@ -68,7 +68,7 @@ top: 280px;
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
-letter-spacing: 0.02em
+letter-spacing: 0.02em;
 }
 
 .tel {
@@ -81,6 +81,14 @@ letter-spacing: 0.02em;
 color: #757575;
 text-decoration: none;
 }
+
+.tel:hover {
+    text-decoration: underline; 
+ }
+
+ .address:hover {
+    text-decoration: underline; 
+ }
 
 .reserv {
 width: 200px;
