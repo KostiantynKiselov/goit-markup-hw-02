@@ -24,7 +24,6 @@ text-decoration: none;
 }
 
 .solutions {
-
     color: #fff;
     text-align: center;
     text-transform: uppercase;
@@ -53,16 +52,16 @@ top: 280px;
 }
 
 .nav-link:hover {
-    text-decoration: underline;
+    color: #2196F3;
 }
 
 .mail:hover {
-   text-decoration: underline; 
+   color: #2196F3; 
 }
 
 .mail {
     margin-right: 50px;
-    color: #2196F3;
+    color: #212121;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
@@ -83,11 +82,12 @@ text-decoration: none;
 }
 
 .tel:hover {
-    text-decoration: underline; 
+    color: #2196F3; 
  }
 
  .address:hover {
-    text-decoration: underline; 
+    color: #2196F3;
+
  }
 
 .reserv {
